@@ -33,7 +33,7 @@
                 <a href="{{ route('employee.index') }}" class="nav-link">
                     <i class="nav-icon far fa-address-card"></i>
                     <p>
-                        {{ __('Employee Management') }}
+                        {{ __('Employee') }}
                     </p>
                 </a>
             </li>
